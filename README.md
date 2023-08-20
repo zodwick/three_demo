@@ -1,2 +1,2 @@
 # three_demo
-Created with CodeSandbox
+React three nextjs demo
